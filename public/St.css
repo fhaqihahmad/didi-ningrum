@@ -1,0 +1,35 @@
+.font-roboto {
+  font-family: 'Roboto Slab', serif;
+}
+
+.font-italiana {
+  font-family: 'Italiana', serif;
+}
+
+.font-allura {
+  font-family: 'Allura', cursive;
+}
+
+.font-apple {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+body {
+  background-color: #ededed;
+}
+
+.box {
+  width: 170px;
+  height: 225px;
+  background-color: #546f82;
+  color: white;
+  text-align: center;
+}
+
+.vh-85 {
+  height: 85vh;
+}
+
+.body-1 {
+  background-color: #546f82;
+}

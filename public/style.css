@@ -1,0 +1,170 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  background-color: #ededed;
+}
+
+h2 {
+  font-family: 'Italiana', serif;
+  text-align: center;
+}
+
+h3 {
+  font-family: 'Allura', cursive;
+  text-align: center;
+}
+
+h4 {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen-Sans, Ubuntu, Cantarell, 'Helvetica Neue', sans-serif;
+}
+
+.cover{
+  background-image: url(assets/img/bunga/bonga.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+.home{
+  background-image: url(assets/img/bunga/Bunga\ \(3\).png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.mempelai{
+  background-image: url(assets/img/bunga/bunga-mono5.png);
+  background-repeat: repeat-x;
+  background-position-y:bottom ;
+  background-size: 75%;
+}
+
+.ucapan{
+  background-image: url('assets/img/bunga/bunga.png');
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.center-50 {
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.center-65 {
+  height: 60vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.center-85 {
+  height: 85vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.center-100 {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.center-120 {
+  height: 125vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+    width: 170px;
+    height: 225px;
+    background-color: #546f82;
+    text-align: center;
+    line-height: 225px;
+    color: white;
+    font-size: 65px;
+  }
+
+.kontak-story{
+  height: 50%;
+  width: 100%;
+  border: solid;
+}
+
+.story{
+  background-color: #546f82;
+}
+
+swiper-container {
+  width: 100%;
+  height: 210px;
+
+}
+
+swiper-container .kotak{
+  background-color: white;
+  height: 100%;
+  font-size: 12px;
+  padding: 15px;
+}
+
+.penutup{
+  background-color: #546f82;
+}
+
+.music{
+  height: 60%;
+  width: 60%;
+  margin-bottom: 15px;
+}
+
+
+@keyframes spinning {
+  from { transform: rotate(0deg) }
+  to { transform: rotate(360deg) }
+}
+.spin {
+  animation-name: spinning;
+  animation-duration: 6s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.animate__animated.animate__heartBeat{
+  --animate-duration: 6s;
+}
+
+.animate__animated.animate__fadeInUp{
+  --animate-duration: 2s;
+}
+
+
+/* Responsive Breakpoints */
+@media (min-width: 768px) {
+  .container-wide{
+    width: 576px;
+    margin: 0px auto;
+  }
+  .center-120{
+    height: 135vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}
+@media (min-width: 992px) {
+}
+@media (min-width: 1200px) {
+}
