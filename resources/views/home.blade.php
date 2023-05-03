@@ -84,7 +84,7 @@
         <h1 data-aos="fade-up" data-aos-duration="1500" data-aos-delay="100"  class="my-2" style="letter-spacing: 8px">THE WEDDING OF</h1>
         <p data-aos="fade-up" data-aos-duration="1500" data-aos-delay="200"  class="text-center mb-4 mx-5" style="font-size: 11px">My love for you is a journey, starting at forever and ending at never</p>
         <h2 data-aos="fade-up" data-aos-duration="1500" data-aos-delay="300"  class="my-2" style="font-size: 35px">Ningrum <span style="font-family: 'Allura', cursive; font-size: 30px">&</span> Didi</h2>
-        <h1 data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400" class="mt-3">12 · 05 · 23</h1>
+        <h1 data-aos="fade-up" data-aos-duration="1500" data-aos-delay="400" class="mt-3">13 · 05 · 23</h1>
       </div>
     </section>
 
@@ -137,7 +137,7 @@
         <img data-aos="flip-up" data-aos-duration="1500" src="{{asset('assets/img/bunga/Bunga (4).png')}}" alt="Image" />
         <h2 data-aos="zoom-in-up" data-aos-duration="1500" class="my-2">HARI PERNIKAHAN</h2>
         <table data-aos="zoom-in-up" data-aos-duration="1500" data-aos-delay="400" class="table text-center">
-          <thead style="font-family: 'Italiana', serif; font-size: 23px">
+          <thead style="font-size: 23px">
             <tr>
               <th id="days">00</th>
               <th id="hours">00</th>
@@ -177,8 +177,8 @@
           <div class="col-4" data-aos-duration="1600" data-aos="fade-up-left">
             <div class="h-100 center">
               <h2 style="font-size: 60px; color: #546f82">
-                20 <br />
-                01 <br />
+                12 <br />
+                05 <br />
                 23
               </h2>
             </div>
@@ -192,8 +192,8 @@
           <div class="col-4" data-aos-duration="1600" data-aos-delay="400"  data-aos="fade-up-right">
             <div class="h-100 center">
               <h2 style="font-size: 60px; color: #546f82">
-                20 <br />
-                01 <br />
+                13 <br />
+                05 <br />
                 23
               </h2>
             </div>
@@ -244,7 +244,7 @@
         <br /> --}}
         <!-- Terima Kasih -->
         <h2 class="text-white" style="font-size: 2rem">Tanda Terima Kasih</h2>
-        <p class="text-center text-white m-2" style="font-size: 12px">Doa restu anda merupakan karunia yang sangat berarti bagi kami dan jika membeberi adalah ungkapan tanda terima kasih anda, anda dapat memberi kado secara cashless</p>
+        <p class="text-center text-white m-2" style="font-size: 12px">Doa restu anda merupakan karunia yang sangat berarti bagi kami dan jika memberi adalah ungkapan tanda terima kasih anda, anda dapat memberi kado secara cashless</p>
         <div data-aos="zoom-out" data-aos-duration="1500" class="card text-center mt-3" style="width: 18rem">
           <div class="card-body">
             <img src="{{asset('assets/img/Cashless/logo-bsi.png')}}" class="card-img-top img-fluid" alt="BCA" style="height: 50%; width: 50%" />
